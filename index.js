@@ -50,7 +50,7 @@ const server = app.listen(3000, function (){
 
 
 
-
+// HANDLEBARS ALTERNATIVE
 
 // app.engine('hbs', engines.handlebars)
 // app.set('views', './views')
