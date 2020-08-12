@@ -1,0 +1,23 @@
+{
+  "name": "curso-express",
+  "version": "1.0.0",
+  "description": "Aprendiendo Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Matias Cabido",
+  "license": "MIT",
+  "dependencies": {
+    "consolidate": "^0.15.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "handlebars": "^4.7.6",
+    "mongodb": "^3.6.0",
+    "pug": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
